@@ -15,10 +15,10 @@ type square struct {
 }
 
 func main() {
-	right := trangle{6.4, 10}
+	rightAngle := trangle{6.4, 10}
 	square1 := square{5.0}
 
-	getArea(right)
+	getArea(rightAngle)
 	getArea(square1)
 
 }
